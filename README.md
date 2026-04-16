@@ -25,7 +25,7 @@
 ╔═══════════════════════════════════════╗
 ║           PLAYER: JOSÉ GUILHERME      ║
 ║  CLASS: Front-end Dev / AI Student    ║
-║  STATUS:║║║║║║║║║║║║║║Grinding...     ║
+║  STATUS: ▓▓▓▓▓▓▓▓▓▓ Grinding...     ║
 ╚═══════════════════════════════════════╝
 ```
 
@@ -93,15 +93,30 @@ print(me.status)
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ Roadmap — Minha Jornada
 
-<div align="center">
+```
+FRONT-END
+  [✅] HTML5
+  [✅] CSS3
+  [🔄] JavaScript        ← próxima missão
+  [🔒] React
+  [🔒] TypeScript
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+BACK-END & DADOS
+  [✅] PHP Básico
+  [✅] MySQL
+  [🔄] Python Intermediário
+  [🔒] APIs REST
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+INTELIGÊNCIA ARTIFICIAL
+  [🔄] Fundamentos de IA
+  [🔒] Machine Learning
+  [🔒] Deep Learning
+  [🔒] Deploy de Modelos
 
-</div>
+✅ Concluído  🔄 Em progresso  🔒 Em breve
+```
 
 ---
 
