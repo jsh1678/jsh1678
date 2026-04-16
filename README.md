@@ -25,7 +25,7 @@
 ╔═══════════════════════════════════════╗
 ║           PLAYER: JOSÉ GUILHERME      ║
 ║  CLASS: Front-end Dev / AI Student    ║
-║  STATUS: ▓▓▓▓▓▓▓▓▓▓ Grinding...     ║
+║  STATUS:║║║║║║║║║║║║║ Grinding...     ║
 ╚═══════════════════════════════════════╝
 ```
 
