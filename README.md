@@ -18,8 +18,7 @@
 </div>
 
 ---
-<pre align="center">
-     
+
 ## 🎮 Player Stats
 
 ```
