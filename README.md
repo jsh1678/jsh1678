@@ -18,14 +18,15 @@
 </div>
 
 ---
-
+<pre align="center">
+     
 ## 🎮 Player Stats
 
 ```
 ╔═══════════════════════════════════════╗
 ║           PLAYER: JOSÉ GUILHERME      ║
 ║  CLASS: Front-end Dev / AI Student    ║
-║  STATUS: ▓▓▓▓▓▓▓▓▓▓ Grinding...     ║
+║  STATUS:║║║║║║║║║║║║║║Grinding...     ║
 ╚═══════════════════════════════════════╝
 ```
 
