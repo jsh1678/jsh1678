@@ -25,7 +25,7 @@
 ╔═══════════════════════════════════════╗
 ║           PLAYER: JOSÉ GUILHERME      ║
 ║  CLASS: Front-end Dev / AI Student    ║
-║  STATUS: ▓▓▓▓▓▓▓▓▓▓ Grinding...     ║
+║  STATUS:║║║║║║║║║║║║  Grinding...     ║
 ╚═══════════════════════════════════════╝
 ```
 
@@ -88,7 +88,7 @@ print(me.status)
   🏆  Primeiro commit commitado
   🏆  Entrou pro mundo da IA
 
-  XP ATUAL: ██████░░░░  Nível subindo...
+  XP ATUAL: ██████████  Nível subindo...
 ```
 
 ---
