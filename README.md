@@ -58,8 +58,8 @@ Meus proximos passos sao aprender **React** para criar interfaces mais dinamicas
 ## Estatisticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=7c3aed&icon_color=10b981&text_color=94a3b8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7c3aed&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=7c3aed&icon_color=10b981&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7c3aed&text_color=94a3b8"/>
 </div>
 
 ---
