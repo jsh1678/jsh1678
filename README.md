@@ -1,133 +1,92 @@
 <div align="center">
 
-<pre align="center">
-     ██╗ ██████╗ ███████╗███████╗
-     ██║██╔═══██╗██╔════╝██╔════╝
-     ██║██║   ██║███████╗█████╗  
-██   ██║██║   ██║╚════██║██╔══╝  
-╚█████╔╝╚██████╔╝███████║███████╗
- ╚════╝  ╚═════╝ ╚══════╝╚══════╝
-</pre>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=JosÃ©%20Guilherme&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-# José Guilherme 👾
-
-**`Front-end Developer & AI Student`**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Front-end+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Student+%F0%9F%A4%96;Eternal+Learner+%F0%9F%93%9A;Level+up+every+day+%F0%9F%8E%AE)](https://git.io/typing-svg)
+<!-- Badges de status -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Buscando%20EstÃ¡gio%20Front--End-6366f1?style=for-the-badge&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/Foco-InteligÃªncia%20Artificial-10b981?style=for-the-badge&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/Local-Brasil%20ðŸ‡§ðŸ‡·-f59e0b?style=for-the-badge&labelColor=0f172a"/>
+</p>
 
 </div>
 
 ---
 
-## 🎮 Player Stats
+## ðŸ‘‹ Sobre mim
 
-```
-╔═══════════════════════════════════════╗
-║           PLAYER: JOSÉ GUILHERME      ║
-║  CLASS: Front-end Dev / AI Student    ║
-║  STATUS:║║║║║║║║║║║║║║Grinding...     ║
-╚═══════════════════════════════════════╝
-```
+OlÃ¡! Sou **JosÃ© Guilherme**, estudante apaixonado por criar interfaces bonitas e funcionais. Estou em busca de uma oportunidade de **estÃ¡gio em Front-end** enquanto aprofundo meus estudos em **InteligÃªncia Artificial**.
 
-> *"O que não me mata, me fortalece."*  
-> — Friedrich Nietzsche
+Acredito que o futuro da web estÃ¡ na interseÃ§Ã£o entre design, desenvolvimento e IA â€” e Ã© exatamente aÃ­ que quero estar. ðŸš€
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
+## ðŸ› ï¸ Tecnologias & Ferramentas
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 Missão Atual
+## ðŸ¤– Estudando IA
 
-```python
-class JoseGuilherme:
-    def __init__(self):
-        self.nome       = "José Guilherme"
-        self.foco       = ["Front-end", "Inteligência Artificial"]
-        self.stack      = ["HTML", "CSS", "JavaScript", "Python", "PHP", "MySQL"]
-        self.status     = "Aprendendo todos os dias 🚀"
-        self.sonho      = "Criar coisas que impactem o mundo"
+<div align="center">
 
-    def life_quote(self):
-        return "O que não me mata, me fortalece. — Nietzsche"
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-    def fora_do_codigo(self):
-        return ["🎮 Games", "🤖 IA", "☕ Café", "📚 Estudos"]
+</div>
 
-me = JoseGuilherme()
-print(me.status)
-# Output: Aprendendo todos os dias 🚀
+Estou explorando o mundo da IA com foco em:
+- ðŸ§  Fundamentos de Machine Learning
+- ðŸ’¬ Modelos de Linguagem (LLMs) e prompting
+- ðŸ”— IntegraÃ§Ã£o de IA em aplicaÃ§Ãµes web
+- ðŸ–¼ï¸ IA generativa (texto e imagem)
+
+---
+
+## ðŸ“Š GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=10b981&text_color=94a3b8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=94a3b8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=94a3b8" />
+</div>
+
+---
+
+## ðŸŽ¯ Objetivos em 2025
+
+```
+âœ… Dominar HTML, CSS e JavaScript
+ðŸ”„ Aprofundar em React
+ðŸ”„ Criar projetos com IA integrada
+â³ Conseguir estÃ¡gio em Front-end
+â³ Contribuir para projetos open source
 ```
 
 ---
 
-## 🎮 Modo Gamer Ativado
-
-```
-🕹️  CARREGANDO PERFIL...  [██████████] 100%
-
-  MISSÕES ATIVAS:
-  ✅  Dominar HTML & CSS
-  ✅  Aprender Python
-  🔄  Estudar Inteligência Artificial
-  🔒  [PRÓXIMA FASE DESBLOQUEADA EM BREVE]
-
-  CONQUISTAS DESBLOQUEADAS:
-  🏆  Primeiro repositório criado
-  🏆  Primeiro commit commitado
-  🏆  Entrou pro mundo da IA
-
-  XP ATUAL: ██████████  Nível subindo...
-```
-
----
-
-## 🗺️ Roadmap — Minha Jornada
-
-```
-FRONT-END
-  [✅] HTML5
-  [✅] CSS3
-  [🔄] JavaScript        ← estudando agora
-  [🔒] React
-  [🔒] TypeScript
-
-BACK-END & DADOS
-  [✅] PHP Básico
-  [✅] MySQL
-  [🔄] Python Intermediário
-  [🔒] APIs REST
-
-INTELIGÊNCIA ARTIFICIAL
-  [🔄] Fundamentos de IA
-  [🔒] Machine Learning
-  [🔒] Deep Learning
-  [🔒] Deploy de Modelos
-
-✅ Concluído  🔄 Em progresso  🔒 Em breve
-```
-
----
-
-## 🌐 Bora Conectar?
+## ðŸ“¬ Vamos conversar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 </div>
 
@@ -135,10 +94,11 @@ INTELIGÊNCIA ARTIFICIAL
 
 <div align="center">
 
-*"Todo expert já foi um iniciante. Todo profissional já foi amador."*
+<!-- Snake animation (opcional - precisa configurar GitHub Actions) -->
+<!-- <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg" /> -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
 
-**Feito com ❤️ e muito ☕ por José Guilherme**
+<sub>ðŸ’¡ <i>"Qualquer tecnologia suficientemente avanÃ§ada Ã© indistinguÃ­vel de magia."</i> â€“ Arthur C. Clarke</sub>
 
 </div>
