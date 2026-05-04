@@ -42,6 +42,19 @@ Atualmente estou focado em construir uma base sólida com **HTML, CSS e JavaScri
 
 ---
 
+## 🎯 Projetos em destaque
+
+<div align="center">
+
+| Projeto | Tecnologias | Status |
+|---------|-------------|--------|
+| 🔜 Em breve | HTML/CSS/JS | 🚧 Desenvolvendo |
+| 🔜 Em breve | HTML/CSS/JS | 📝 Planejado |
+
+</div>
+
+---
+
 ## 🔮 Próximos passos
 
 <div align="center">
