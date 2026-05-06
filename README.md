@@ -72,10 +72,9 @@ Atualmente estou focado em construir uma base sólida com **HTML, CSS e JavaScri
 ## 📊 Estatísticas
 
 <div align="center">
-
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7c3aed&icon_color=10b981&text_color=94a3b8"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7c3aed&text_color=94a3b8"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jsh1678&theme=tokyonight&hide_border=true&background=0f172a&stroke=7c3aed&ring=7c3aed&fire=10b981&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=7c3aed&sideLabels=94a3b8"/>
 
 </div>
 
