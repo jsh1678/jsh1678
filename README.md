@@ -2,7 +2,7 @@
 
 ### 🚀 Front-end Developer em Formação
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsh1678)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
@@ -37,6 +37,10 @@ Sou um desenvolvedor front-end em formação, focado em construir uma base sóli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS" />
 </div>
 
 ---
@@ -56,44 +60,25 @@ Sou um desenvolvedor front-end em formação, focado em construir uma base sóli
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Dark mode stats -->
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=7c3aed&icon_color=10b981&border_color=2a2a3a#gh-dark-mode-only" />
-  </a>
-  
-  <!-- Light mode stats -->
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=default#gh-light-mode-only" />
-  </a>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&count_private=true&hide_border=true&title_color=7c3aed&icon_color=10b981&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&hide_border=true&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <!-- Dark mode top langs -->
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=dark&bg_color=0a0a0f&title_color=7c3aed&border_color=2a2a3a#gh-dark-mode-only" />
-  </a>
-  
-  <!-- Light mode top langs -->
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=default#gh-light-mode-only" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsh1678&theme=dark&background=0d1117&ring=7c3aed&fire=10b981&currStreakLabel=7c3ed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <!-- Dark mode streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seu-usuario&theme=dark&background=0a0a0f&border=2a2a3a&ring=7c3aed&fire=10b981&currStreakLabel=7c3aed" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jsh1678&theme=default" />
-    <img src="https://streak-stats.demolab.com?user=seu-usuario&theme=dark&background=0a0a0f&border=2a2a3a&ring=7c3aed&fire=10b981&currStreakLabel=7c3aed" alt="GitHub Streak" />
-  </picture>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jsh1678&theme=darkhub&row=2&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🎯 Metas para 2024/2025
+## 🎯 Metas para 2025
 
-- [x] Dominar HTML e CSS (em andamento)
-- [x] Aprender JavaScript (em andamento)
+- [ ] Dominar HTML e CSS completamente
+- [ ] Aprender JavaScript avançado
 - [ ] Criar 5+ projetos completos para portfólio
 - [ ] Conquistar primeiro estágio em Front-end
 - [ ] Aprender React e construir projetos com a biblioteca
@@ -101,11 +86,23 @@ Sou um desenvolvedor front-end em formação, focado em construir uma base sóli
 
 ---
 
+## 📊 Minhas Atividades Recentes
+
+<!-- Botões de atividades - atualizam automaticamente -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/jsh1678?label=Followers&style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/github/stars/jsh1678?label=Stars&style=for-the-badge&color=10b981" />
+  <img src="https://img.shields.io/github/last-commit/jsh1678/jsh1678?label=Last%20Commit&style=for-the-badge&color=4f46e5" />
+</div>
+
+---
+
 ## 📫 Como me encontrar
 
 - 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 📧 **E-mail:** jsguilherme81@gmail.com
+- 📧 **E-mail:** seuemail@gmail.com
 - 🌐 **Portfólio:** (em breve)
+- 🐙 **GitHub:** [github.com/jsh1678](https://github.com/jsh1678)
 
 ---
 
@@ -115,6 +112,7 @@ Sou um desenvolvedor front-end em formação, focado em construir uma base sóli
 - 🌱 Estou sempre aberto a aprender com a comunidade
 - 🎯 Meu lema: "Melhorar 1% a cada dia"
 - 💬 Adoro trocar ideias sobre tecnologia e carreira
+- ☕ Não vivo sem café e código
 
 ---
 
@@ -128,4 +126,24 @@ Sou um desenvolvedor front-end em formação, focado em construir uma base sóli
   <p>
     <i>🚀 Em busca da primeira oportunidade como desenvolvedor front-end</i>
   </p>
+  
+  <details>
+    <summary>📊 <strong>Métricas Detalhadas</strong></summary>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsh1678&theme=github_dark" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsh1678&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsh1678&theme=github_dark" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsh1678&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsh1678&theme=github_dark&utcOffset=-3" />
+  </details>
+</div>
+
+---
+
+<div align="center">
+  <b>📌 "A jornada de mil linhas de código começa com um 'Hello World'"</b>
+  <br/><br/>
+  <i>— José Guilherme</i>
 </div>
