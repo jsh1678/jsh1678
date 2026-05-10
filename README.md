@@ -41,32 +41,91 @@ Sou um desenvolvedor front-end em formação, focado em construir uma base sóli
 
 ---
 
-## 📊 Minha jornada de aprendizado
+## 📁 Principais Projetos
 
-```mermaid
-timeline
-    title Roadmap Front-end
-    section Concluído ✅
-        HTML & CSS
-        : Fundamentos e
-        : layouts responsivos
-        JavaScript
-        : DOM e lógica
-        : de programação
-        Git & GitHub
-        : Versionamento
-        : básico
-    section Em andamento 🚧
-        Projetos
-        : Portfólio e
-        : práticas reais
-        React
-        : Biblioteca moderna
-        : para UI
-    section Próximos passos 🎯
-        Primeiro Estágio
-        : Oportunidade
-        : profissional
-        IA na Web
-        : Integração com
-        : APIs de IA
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [**Portfólio Pessoal**](https://github.com/jsh1678/portfolio) | Meu site pessoal para apresentar projetos e habilidades | HTML, CSS, JavaScript |
+| [**Em breve**]() | Projeto sendo desenvolvido | - |
+| [**Em breve**]() | Projeto sendo desenvolvido | - |
+
+> 💡 *Em breve mais projetos serão adicionados aqui! Estou trabalhando para construir um portfólio sólido.*
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <!-- Dark mode stats -->
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=7c3aed&icon_color=10b981&border_color=2a2a3a#gh-dark-mode-only" />
+  </a>
+  
+  <!-- Light mode stats -->
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=default#gh-light-mode-only" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Dark mode top langs -->
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=dark&bg_color=0a0a0f&title_color=7c3aed&border_color=2a2a3a#gh-dark-mode-only" />
+  </a>
+  
+  <!-- Light mode top langs -->
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=default#gh-light-mode-only" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Dark mode streak -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seu-usuario&theme=dark&background=0a0a0f&border=2a2a3a&ring=7c3aed&fire=10b981&currStreakLabel=7c3aed" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jsh1678&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=seu-usuario&theme=dark&background=0a0a0f&border=2a2a3a&ring=7c3aed&fire=10b981&currStreakLabel=7c3aed" alt="GitHub Streak" />
+  </picture>
+</div>
+
+---
+
+## 🎯 Metas para 2024/2025
+
+- [x] Dominar HTML e CSS (em andamento)
+- [x] Aprender JavaScript (em andamento)
+- [ ] Criar 5+ projetos completos para portfólio
+- [ ] Conquistar primeiro estágio em Front-end
+- [ ] Aprender React e construir projetos com a biblioteca
+- [ ] Explorar integração de IA em aplicações web
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 📧 **E-mail:** jsguilherme81@gmail.com
+- 🌐 **Portfólio:** (em breve)
+
+---
+
+## 💡 Curiosidades sobre mim
+
+- 🚀 Acredito que **consistência** é a chave para evoluir como dev
+- 🌱 Estou sempre aberto a aprender com a comunidade
+- 🎯 Meu lema: "Melhorar 1% a cada dia"
+- 💬 Adoro trocar ideias sobre tecnologia e carreira
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jsh1678&color=7c3aed&style=flat-square" alt="Profile views" />
+  
+  <p>
+    <i>⭐️ Se gostou do meu perfil, considere dar uma estrela nos meus projetos!</i>
+  </p>
+  
+  <p>
+    <i>🚀 Em busca da primeira oportunidade como desenvolvedor front-end</i>
+  </p>
+</div>
