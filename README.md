@@ -4,17 +4,9 @@
 
 **`Front-end Developer em Formação`**
 
-<p>
-  <a href="https://github.com/jsh1678">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsh1678)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 </div>
 
@@ -40,9 +32,13 @@ const joseGuilherme = {
 
 <div align="center">
 
-| Front-end | Ferramentas |
-|:---------:|:-----------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" /> |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -52,16 +48,16 @@ const joseGuilherme = {
 
 <div align="center">
 
-<!-- Usando streak stats (mais confiável que readme-stats sozinho) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/jsh1678">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jsh1678&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1678&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</a>
 
 </div>
 
 <div align="center">
 
-<!-- Streak stats - alternativa robusta para mostrar sequência de commits -->
-<img src="https://streak-stats.demolab.com?user=jsh1678&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=c9d1d9&dates=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=jsh1678&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,21 +72,9 @@ const joseGuilherme = {
 
 ---
 
-## 📫 Contato
-
 <div align="center">
 
-📧 **Email:** seuemail@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/seu-perfil  
-🐙 **GitHub:** github.com/jsh1678
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jsh1678&color=58a6ff&style=flat-square&label=Visitas+no+perfil" />
+![Visitas](https://komarev.com/ghpvc/?username=jsh1678&color=blue&style=for-the-badge&label=Visitas)
 
 *"O único jeito de fazer um ótimo trabalho é amar o que você faz."*
 
